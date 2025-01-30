@@ -1,3 +1,5 @@
+# Gemini AI in Jupyter Notebook
+
 *   **Project Goal:** Integrate Google's Gemini AI into a Jupyter Notebook.
 *   **Target Audience:** Users interested in leveraging Gemini AI for various tasks.
 *   **Key Features/Functionalities:**
